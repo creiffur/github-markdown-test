@@ -13,5 +13,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # References
 Cicero (45 BC). De Finibus Bonorum et Malorum, sec. 1.10.32 and 1.10.33.
-
-Miao, P., Chao, Z., Zhang, Y., Li, N., and Thakor, N.V. (2014). Entropy analysis reveals a simple linear relation between laser speckle and blood flow. Opt Lett 39, 3907–3910.
