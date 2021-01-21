@@ -10,17 +10,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Heading 4
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-## Math
+# Math
 
-#### No LaTeX
+### No LaTeX
 For simple formulas one could use HTML ampersand entity codes.
 
 K = &sigma; / &mu;
 
 
-## Source code block
+# Source code block
 
-#### Javascript
+### Javascript
 
 ```javascript
 if (isAwesome){
@@ -28,7 +28,7 @@ if (isAwesome){
 }
 ```
 
-## HTML4 `<font>` tag (deprecated)
+# HTML4 `<font>` tag (deprecated)
 Specifying font face (computer modern), font size (32px), or color of text (red) has no effect.
 
 ```html
@@ -36,5 +36,5 @@ Specifying font face (computer modern), font size (32px), or color of text (red)
 ```
 <p style="font-family:computer modern; font-size:32px; color:red">Using the HTML4 &lt;font&gt; tag has no effect.</p>
 
-## References
+# References
 Cicero (45 BC). De Finibus Bonorum et Malorum, sec. 1.10.32 and 1.10.33.
