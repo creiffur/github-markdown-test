@@ -14,5 +14,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Testing simple formula using the <font> tag used HTML 4 (not supported in HTML 5).
 <p style="font-family:computer modern; font-size:16px"><em>K = &sigma;</sub> / &mu;</em></p>
 
+# Source code block
+
+## Javascript
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+# HTML4 `<font>` tag (deprecated)
+Specifying font face (computer modern), font size (32px), or color of text (red) has no effect.
+
+```html
+<p style="font-family:computer modern; font-size:32px; color:red">Using the HTML4 &lt;font&gt; tag has no effect.</p>
+```
+<p style="font-family:computer modern; font-size:32px; color:red">Using the HTML4 &lt;font&gt; tag has no effect.</p>
+
 # References
 Cicero (45 BC). De Finibus Bonorum et Malorum, sec. 1.10.32 and 1.10.33.
