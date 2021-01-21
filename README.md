@@ -17,6 +17,7 @@ For simple formulas one could use HTML ampersand entity codes.
 
 K = &sigma; / &mu;
 
+See also: [Entity codes for math symbols and greek letters.](https://www.htmlhelp.com/reference/html40/entities/symbols.html)
 
 # Source code block
 
