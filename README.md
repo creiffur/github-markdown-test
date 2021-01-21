@@ -10,6 +10,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Heading 4
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+# Math (no LaTeX)
+Testing simple formula using the <font> tag used HTML 4 (not supported in HTML 5).
+<p style="font-family:computer modern; font-size:16px"><em>K = &sigma;</sub> / &mu;</em></p>
 
 # References
 Cicero (45 BC). De Finibus Bonorum et Malorum, sec. 1.10.32 and 1.10.33.
