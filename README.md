@@ -10,18 +10,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Heading 4
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-# Math
+## Math
 
-## No LaTeX
-For simple formulas one could use HTML ampersand entity codes.
+### No LaTeX
+For simple formulas HTML ampersand entity codes might be sufficient.
 
 K = &sigma; / &mu;
 
 See also: [Entity codes for math symbols and greek letters.](https://www.htmlhelp.com/reference/html40/entities/symbols.html)
 
-# Source code block
+## Source code block
 
-## Javascript
+### Javascript
 
 ```javascript
 if (isAwesome){
@@ -29,7 +29,7 @@ if (isAwesome){
 }
 ```
 
-# HTML4 `<font>` tag (deprecated)
+## HTML4 `<font>` tag (deprecated)
 Specifying font face (computer modern), font size (32px), or color of text (red) has no effect.
 
 ```html
@@ -37,16 +37,16 @@ Specifying font face (computer modern), font size (32px), or color of text (red)
 ```
 <p style="font-family:computer modern; font-size:32px; color:red">Using the HTML4 &lt;font&gt; tag has no effect.</p>
 
-# Footnotes
+## Footnotes
 
-## HTML superscript tags
+### HTML superscript tags
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<sup>1</sup>
 
-## Clickable footnotes
+### Clickable footnotes
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<sup>[1](#myReference1)</sup>
 
-# Simple references
+## Simple references
 1. Cicero (45 BC). De Finibus Bonorum et Malorum, sec. 1.10.32 and 1.10.33.
 
-# Clickable references
-<a name="myReference1">1</a>: Cicero (45 BC). De Finibus Bonorum et Malorum, sec. 1.10.32 and 1.10.33.
+## Clickable references
+<a name="myReference1">1</a>. Cicero (45 BC). De Finibus Bonorum et Malorum, sec. 1.10.32 and 1.10.33.
