@@ -42,11 +42,11 @@ Specifying font face (computer modern), font size (32px), or color of text (red)
 ### HTML superscript tags
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<sup>1</sup>
 
-### Clickable footnotes
+### Footnotes with hyperlink
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<sup>[1](#myReference1)</sup>
 
 ## Simple references
 1. Cicero (45 BC). De Finibus Bonorum et Malorum, sec. 1.10.32 and 1.10.33.
 
-## Clickable references
+## References of footnotes with hyperlink
 <a name="myReference1">1</a>. Cicero (45 BC). De Finibus Bonorum et Malorum, sec. 1.10.32 and 1.10.33.
